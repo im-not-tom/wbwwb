@@ -1,24 +1,23 @@
 ﻿<html>
 	<head>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap" rel="stylesheet">
 		<link rel="stylesheet" href="css/game.css">
 	</head>
 	<body>
 		<div id="stage"></div>
 		<div id="modal_shade"></div>
 		<div class="overlay" id="warning">
-			<div dir="rtl">ای بابا!</div>
 			<div dir="rtl">
-			your browser doesn't support webgl.<br>
-			try a different browser or computer?<br>
-				<br>
-				مرورگر شما مرخص است! از یه مرورگر و یا کامپیوتر دیگه استفاده کنید!
+			Tvoj prehliadač nepodporuje WebGL<br>
+			Skúste iný prehliadač alebo iný browser.<br>
 			</div>
 		</div>
 		<div class="overlay" id="paused">
-			<div>paused</div>
+			<div>Pauza</div>
 			<div dir="rtl">
-			click anywhere to resume<br>
-				برای بازگشت رو یه جا رو کلیک کن!
+			Klikni pre pokračovanie
 			</div>
 		</div>
 	</body>
@@ -94,11 +93,11 @@ Game.stats = false;
 window.onload = function(){
 	try{
 		Game.init();
-		//Game.init("Game");
+		// Game.init("Post_Post_Credits");
 	}catch(e){
 		document.getElementById("warning").style.display = "block";
 	}
 };
-window.SHARE_TEXT = 'همین الان یه بازی خیلی خفن رو بازی کردم'
+window.SHARE_TEXT = 'Práve som dobral príšernú hru'
 window.SHARE_URL = "";
 </script>

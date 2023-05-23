@@ -618,3 +618,107 @@ var textStrings_ES = {
 	// (quote0004.png)
 	"misatrributed": "(misattributed)",
 };
+
+var textStrings_SK = {
+	// Act 1
+	"niceHat": "AHA! Fasa klobúk.",
+	"outtaHere": "ale ty padaj odtiaľto",
+	"getARoom": "FUJ! TO SI ROBTE DOMA!",
+	"notCoolAnymore": "Klobúky už vyšli z módy",
+	"tvOnTv": "Vaša Televízia predstavuje: TV!",
+	"cricky": "Ale cvrček! Jaké zlaté!",
+	"tooManyCrickets": "dobre ale jeden cvrčok stačil",
+	"normalPeep": "no čo, normálny týpek",
+	"normalPeeps": "no čo, normálni týpci",
+	"wowNothing": "Íha, ejha, vôbec nič",
+
+	// Act 2
+	"crazySquareAttacks": "NEPRÍČETNÝ ŠTVORCOVÝ ZAÚTOČIL!",
+	"justMissed": "tesne ale nestihol si",
+	"somethingInteresting": "(musíš ho chytiť, keď robí niečo zaujímavé)",
+	"whoIsScreaming": "(a na koho kričal kde máš?)",
+	"circleFearsSquares": "KRUHOVÝ SA BOJÍ ŠTVORCOVÝCH!",
+	"whoScaresThem": "(sa bojí, ale koho?)",
+	"areTheyScared": "(a koho to tak vydesil?)", // not used
+	"squaresSnubCircles": "KRUHOFÓBIA MEDZI ŠTVORCOVOU POPULÁCIOU!",
+	"areTheySnubbed": "(zase si nechytil oboch v obrázku)", // not used
+	"everyoneHates": "KAŽDÝ SA BOJÍ KAŽDÉHO!!1!",
+	"almostEveryoneHates": "SKORO KAŽDÝ SA BOJÍ KAŽDÉHO...",
+	"squaresHateCircles": "KRUHOFÓBIA MEDZI ŠTVORCOVÝMI",
+	"circlesHateSquares": "ŠTVORCOFÓBIA MEDZI KRUHOVÝMI",
+	"areTheyYelling": "(zachyť aj kto aj na koho jačí)", // not used
+	"nerdsNow": "tí dvaja idioti čo zase robia?",
+	"schockedPeep": "čo ho tak vystrašilo?",
+	"whatever": "no čo",
+
+	// Act 3
+	"ellipsis": ". . .",
+	"coolNoMore": "ty si nepočul že klobúky sú už z módy?",
+	"beScared": "STRACH! NENÁVISŤ!",
+
+	// MANIFESTO
+	"manifesto": [
+		//"as if you viewers want GOOD news"       ,
+		"kto si zapne telku, aby pozeral ľudí, čo sa majú radi?",
+		"mier je nuda. násile láka kliky.",
+		//"peace is boring. conflict gets clicks." ,
+		"a každý potrebuje trochu konfliktu v živote. takže...",
+		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+		"DAJ DIVÁKOM ČO SI ŽIADAJÚ!!!"
+	],
+
+	// -- Strings currently in graphics resources --
+
+	// (bg_preload.png) Preload screen
+	"playingTime": "",
+	"warning": "",
+
+	// (cam-instructions.png) Camera Instructions
+	"pointAndClick": "",
+
+	// (chyron3.png)
+	"chyronNothing": "*",
+
+	// (credits0001.png)
+	"createdBy": "vytvorila",
+	"NickyCase": "Nicky Case",
+
+	// (credits0002.png)
+	"manyThanks": "ďakujem svojim testerom:",
+
+	// (credits000[3,4,5,6].png)
+	"patreonSupporters": "a podporovateľom na patreone:",
+
+	// (credits0007.png)
+	"lastButNotLeast": "a predovšetkým,",
+
+	// (credits0008.png)
+	"thankYouForPlaying": "VÁM, za hranie mojej hry!",
+
+	// (preload_play.png)
+	"playButton": "",
+
+	// (end_button.png) Post Credits
+	"otherWorkButton": "ostatné práce autorky",
+	"buyCoffeeButton": "prispieť autorke",
+	"replayButton": "hrať znovu",
+
+	// (logo.png) Post Credits
+	"logoWBWWB": "",
+
+	// (end_prototype.png)
+	"endOfPrototype": "",
+	"toBeContinued": "",
+
+	// (quote0002.png)
+	"WBWWB": "Sme tým, k čomu vzhliadame.",
+	"WSOTATOTSU": "Formujeme naše nástroje a naše nástroje formujú nás.",
+
+	// (quote0003.png)
+	"MarshallMcLuhan": "Marshall McLuhan",
+
+	// (quote0004.png)
+	"misatrributed": "(misatribuované)",
+};
+
+var textStrings = textStrings_SK;
