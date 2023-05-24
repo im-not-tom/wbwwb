@@ -1,4 +1,19 @@
-![banner](https://github.com/AFZL95/wbwwb/blob/WBWWB-FA/Persian-CoverImage.png)
+
+SME TÝM, NA ČO SA POZERÁME
+
+Slovenský preklad. [Originál tu](https://github.com/ncase/wbwwb)
+
+[Hrať](https://im-not-tom.github.io/wbwwb/)
+
+---
+
+We Become What We Behold
+
+Slovak translation. [Original here](https://github.com/ncase/wbwwb)
+
+[Play (in english)](https://ncase.itch.io/wbwwb)
+
+---
 
 *a game about news cycles, vicious cycles, infinite cycles*
 

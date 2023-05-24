@@ -625,7 +625,7 @@ var textStrings_SK = {
 	"outtaHere": "ale ty padaj odtiaľto",
 	"getARoom": "FUJ! TO SI ROBTE DOMA!",
 	"notCoolAnymore": "Klobúky už vyšli z módy",
-	"tvOnTv": "Vaša Televízia predstavuje: TV!",
+	"tvOnTv": "Vaša TV predstavuje: TV!",
 	"cricky": "Ale cvrček! Jaké zlaté!",
 	"tooManyCrickets": "dobre ale jeden cvrčok stačil",
 	"normalPeep": "no čo, normálny týpek",
@@ -711,7 +711,7 @@ var textStrings_SK = {
 	"toBeContinued": "",
 
 	// (quote0002.png)
-	"WBWWB": "Sme tým, k čomu vzhliadame.",
+	"WBWWB": "Sme tým, na čo sa pozeráme.",
 	"WSOTATOTSU": "Formujeme naše nástroje a naše nástroje formujú nás.",
 
 	// (quote0003.png)
